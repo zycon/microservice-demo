@@ -16,7 +16,7 @@
     "google-protobuf": "^3.12.2",
     "grpc": "^1.22.2",
     "pino": "^5.17.0",
-    "request": "^2.87.0",
+    "request": "^2.88.2",
     "xml2js": "^0.4.19"
   },
   "devDependencies": {
